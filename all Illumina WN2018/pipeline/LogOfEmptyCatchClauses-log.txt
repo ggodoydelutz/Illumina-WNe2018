@@ -1,0 +1,8 @@
+---------------------------
+9/10/2018 8:14:09 AM
+-------------------------------
+ Empty Catch executed in: l:\Pipeline\PIPELINE-v17.08.18\Pipeline\manageBlastRemote.cs
+ Method: System.Collections.Generic.List`1[System.Int32] ComputeFilesAlreadyProcessedByBlastWorkers() lineNumber: 689
+Exception Error Message:  The process cannot access the file 'E:\00NewIllumina\GAOJ\080718GGLns31\080718GGLns31\blastoutput\080718GGLns31-complete-pr.fasta.otus.fa-95-100.fa-MRDNA-DBforBlasting_GENUS_05_09_2018.xml' because it is being used by another process.
+Could not delete SIZE 0 file: E:\00NewIllumina\GAOJ\080718GGLns31\080718GGLns31\blastoutput\080718GGLns31-complete-pr.fasta.otus.fa-95-100.fa-MRDNA-DBforBlasting_GENUS_05_09_2018.xml
+---------------------------
